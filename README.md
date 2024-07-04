@@ -7,7 +7,10 @@
 # Agenda & Focus
 
 
-# Runs on
+# Block Diagram
+
+![Block diagram (2)](https://github.com/cpganiger/Tech_Army/assets/60978907/5095cb12-ea50-47e7-b7a4-92612b966a79)
+
 # Is it Worth it?
 * Noise Cancellation
 * Low Power device
