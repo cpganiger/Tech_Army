@@ -26,4 +26,4 @@
 
 |C Build|Unit Test|cppcheck|Valgrind|Codacy|
 |:--:|:--:|:--:|:--:|:--:|
-[![valgrind-action](https://github.com/cpganiger/Tech_Army/actions/workflows/valgrind.yml/badge.svg)](https://github.com/cpganiger/Tech_Army/actions/workflows/valgrind.yml)
+[![valgrind-action](https://github.com/cpganiger/Tech_Army/actions/workflows/valgrind.yml/badge.svg)](https://github.com/cpganiger/Tech_Army/actions/workflows/valgrind.yml)|[![valgrind-action](https://github.com/cpganiger/Tech_Army/actions/workflows/valgrind.yml/badge.svg)](https://github.com/cpganiger/Tech_Army/actions/workflows/valgrind.yml)|[![valgrind-action](https://github.com/cpganiger/Tech_Army/actions/workflows/valgrind.yml/badge.svg)](https://github.com/cpganiger/Tech_Army/actions/workflows/valgrind.yml)|[![valgrind-action](https://github.com/cpganiger/Tech_Army/actions/workflows/valgrind.yml/badge.svg)](https://github.com/cpganiger/Tech_Army/actions/workflows/valgrind.yml)|[![valgrind-action](https://github.com/cpganiger/Tech_Army/actions/workflows/valgrind.yml/badge.svg)](https://github.com/cpganiger/Tech_Army/actions/workflows/valgrind.yml)
