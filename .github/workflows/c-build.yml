@@ -1,4 +1,4 @@
-name: Build for Linux
+name: C Build
 
 on:
   push:
