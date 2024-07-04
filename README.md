@@ -8,7 +8,12 @@
 
 
 # Runs on
-
+# Is it Worth it?
+* Noise Cancellation
+* Low Power device
+* Easy data transfer of files to computer and mobiles
+* On screen display of raw data
+  
 # Build using
 
 # Applications
