@@ -1,4 +1,4 @@
-# Tech_Army
+
 ## BLUETOOTH STETHOSCOPE
 
 # Agenda & Focus
